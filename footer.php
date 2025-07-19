@@ -1,0 +1,1 @@
+echo '<footer>tous droits réservés</footer>'
